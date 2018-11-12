@@ -1,0 +1,5 @@
+name: 'React Embed'
+type: module
+description: 'Embeds a react component in Drupal 8'
+core: 8.x
+package: 'Custom'

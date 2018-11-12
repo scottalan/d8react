@@ -1,0 +1,14 @@
+{
+  "name": "drupal/react_embed",
+  "type": "drupal-module",
+  "description": "Embeds a react component in Drupal 8",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/react_embed",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/react_embed",
+    "source": "http://cgit.drupalcode.org/react_embed"
+  },
+  "require": { }
+}

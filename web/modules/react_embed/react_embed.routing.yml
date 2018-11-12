@@ -1,0 +1,7 @@
+react.content:
+  path: '/react-app' 
+  defaults: 
+    _controller: '\Drupal\react_embed\Controller\ReactController::content' 
+    _title: 'Hello React'
+  requirements: 
+    _permission: 'access content' 

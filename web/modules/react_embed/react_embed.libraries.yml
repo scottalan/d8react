@@ -1,0 +1,9 @@
+react-embed:
+  version: 1.x
+  css:
+    theme:
+      static/css/main.8ea92f09.chunk.css: {}
+  js:
+    static/js/1.a700ff87.chunk.js: {}
+    static/js/main.9b20016f.chunk.js: {}
+    static/js/runtime~main.229c360f.js: {}
